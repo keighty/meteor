@@ -13,6 +13,16 @@ var postsData = [
     title: 'The Meteor Book',
     author: 'Tom Coleman',
     url: 'http://themeteorbook.com'
+  },
+  {
+    title: 'A Whole New World',
+    author: 'Me',
+    url: '#'
+  },
+  {
+    title: 'FooBar and the foobars',
+    author: 'Me',
+    url: '#'
   }
 ];
 Template.postsList.helpers({
